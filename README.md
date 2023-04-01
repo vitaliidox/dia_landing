@@ -2,7 +2,7 @@
 
 <br/>
 
-### A Dia landing page is a web page designed to attract potential customers,promoting a service.
+### A Dia landing page is a web page designed to attract potential customers, promoting a service.
 ### A typical landing page has a clean design, a clear header.
 ### The content of the page includes a description of the option, company services, social proof in the form of customer reviews.
 <br/>
