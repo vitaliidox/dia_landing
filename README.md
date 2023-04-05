@@ -2,13 +2,14 @@
 
 <br/>
 
-### A Dia landing page is a web page designed to attract potential customers, promoting a service.
-### A typical landing page has a clean design, a clear header.
-### The content of the page includes a description of the option, company services, social proof in the form of customer reviews.
+### Description:
+A Dia landing page is a web page designed to attract potential customers, promoting a service.
+A typical landing page has a clean design, a clear header.
+The content of the page includes a description of the option, company services, social proof in the form of customer reviews.
 <br/>
 
 
-### Technology:
+### Technologies:
 
 - JavaSript
 - BEM methodology
@@ -16,7 +17,7 @@
 - CSS/SCSS
 
 
-[Prevue Link](https://vitaliidox.github.io/dia_landing/) <br/>
+[Preview Link](https://vitaliidox.github.io/dia_landing/) <br/>
 [Figma design](https://www.figma.com/file/7qwsWggv9BAxMi2VPhBuPr/Air-(formerly-Dia)?node-id=9138%3A35)
 
 ### Instructions:
